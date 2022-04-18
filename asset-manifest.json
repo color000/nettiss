@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nettiss/static/css/main.e326265e.css",
-    "main.js": "/nettiss/static/js/main.8fb809ee.js",
+    "main.js": "/nettiss/static/js/main.91e361ac.js",
     "static/js/787.26c6a838.chunk.js": "/nettiss/static/js/787.26c6a838.chunk.js",
     "static/media/bg_main_section3.png": "/nettiss/static/media/bg_main_section3.8e9476c66e2dc7e2ad9e.png",
     "static/media/bg_metaverse2.png": "/nettiss/static/media/bg_metaverse2.1ce3e4bbad4380b27174.png",
@@ -18,11 +18,11 @@
     "static/media/ico_type3_1.png": "/nettiss/static/media/ico_type3_1.f741d6374e9d47696b82.png",
     "index.html": "/nettiss/index.html",
     "main.e326265e.css.map": "/nettiss/static/css/main.e326265e.css.map",
-    "main.8fb809ee.js.map": "/nettiss/static/js/main.8fb809ee.js.map",
+    "main.91e361ac.js.map": "/nettiss/static/js/main.91e361ac.js.map",
     "787.26c6a838.chunk.js.map": "/nettiss/static/js/787.26c6a838.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e326265e.css",
-    "static/js/main.8fb809ee.js"
+    "static/js/main.91e361ac.js"
   ]
 }
