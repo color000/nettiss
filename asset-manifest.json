@@ -1,28 +1,34 @@
 {
   "files": {
-    "main.css": "/nettiss/static/css/main.4b0be12d.css",
-    "main.js": "/nettiss/static/js/main.ac0d14b1.js",
+    "main.css": "/nettiss/static/css/main.7fef72d0.css",
+    "main.js": "/nettiss/static/js/main.ae680d0b.js",
     "static/js/787.26c6a838.chunk.js": "/nettiss/static/js/787.26c6a838.chunk.js",
-    "static/media/bg_main_section3.png": "/nettiss/static/media/bg_main_section3.8e9476c66e2dc7e2ad9e.png",
     "static/media/bg_metaverse2.png": "/nettiss/static/media/bg_metaverse2.1ce3e4bbad4380b27174.png",
     "static/media/bg_sub1.png": "/nettiss/static/media/bg_sub1.8b45f1db1fa496784dce.png",
-    "static/media/bg_main_section4.png": "/nettiss/static/media/bg_main_section4.6d555634cadd6a5f2715.png",
-    "static/media/banner_main.png": "/nettiss/static/media/banner_main.c2d49110741c160ae2f9.png",
     "static/media/bg_metaverse.png": "/nettiss/static/media/bg_metaverse.5723594a0e3ba7eef4d8.png",
+    "static/media/bg_main_section3.jpg": "/nettiss/static/media/bg_main_section3.634e2a7291c36b02eb84.jpg",
+    "static/media/banner_company.jpg": "/nettiss/static/media/banner_company.43e45e97abf97fb1cf50.jpg",
     "static/media/content_head.png": "/nettiss/static/media/content_head.9f6d89a5f7159ef3da2f.png",
+    "static/media/banner_metaverse.jpg": "/nettiss/static/media/banner_metaverse.d5a6153f2acb65eab7d3.jpg",
     "static/media/bg_main_section2.png": "/nettiss/static/media/bg_main_section2.9436fbbc44abc9d6014a.png",
+    "static/media/banner_partner.jpg": "/nettiss/static/media/banner_partner.5757cb487746c1a719a0.jpg",
+    "static/media/banner_main.jpg": "/nettiss/static/media/banner_main.9d58e3e7532e5e8d2cb9.jpg",
+    "static/media/banner_platform.jpg": "/nettiss/static/media/banner_platform.7eff0f755d6a987584ad.jpg",
+    "static/media/banner_contact.jpg": "/nettiss/static/media/banner_contact.e02cb3dfa6c10aa4d485.jpg",
+    "static/media/bg_main_section4.jpg": "/nettiss/static/media/bg_main_section4.6dfeceb64f1788a66d46.jpg",
+    "static/media/bg_main_section2.jpg": "/nettiss/static/media/bg_main_section2.abc2008cc18b0789a0fb.jpg",
     "static/media/bg_partner.png": "/nettiss/static/media/bg_partner.321feeeb4ca57edc915f.png",
     "static/media/bg_hover1.png": "/nettiss/static/media/bg_hover1.e5d016835f86393d9c05.png",
     "static/media/bg_Cryptocurrency.png": "/nettiss/static/media/bg_Cryptocurrency.c540c5feb8c7c07cf1f3.png",
     "static/media/bg_company.png": "/nettiss/static/media/bg_company.cdc03aabb930d817e64e.png",
     "static/media/ico_type3_1.png": "/nettiss/static/media/ico_type3_1.f741d6374e9d47696b82.png",
     "index.html": "/nettiss/index.html",
-    "main.4b0be12d.css.map": "/nettiss/static/css/main.4b0be12d.css.map",
-    "main.ac0d14b1.js.map": "/nettiss/static/js/main.ac0d14b1.js.map",
+    "main.7fef72d0.css.map": "/nettiss/static/css/main.7fef72d0.css.map",
+    "main.ae680d0b.js.map": "/nettiss/static/js/main.ae680d0b.js.map",
     "787.26c6a838.chunk.js.map": "/nettiss/static/js/787.26c6a838.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b0be12d.css",
-    "static/js/main.ac0d14b1.js"
+    "static/css/main.7fef72d0.css",
+    "static/js/main.ae680d0b.js"
   ]
 }
